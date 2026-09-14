@@ -4,10 +4,17 @@
     <title>GraphQL &amp; API Gateway Federation Hub</title>
     <link>https://graphql-federation-gateways-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 06:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:09:34 GMT</lastBuildDate>
     <atom:link href="https://graphql-federation-gateways-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
+      <link>https://t.me/devops_channel</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-federation-gateways-hub-telegram-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 06:09:34 GMT</pubDate>
+      <description>Newly verified community added to GraphQL &amp; API Gateway Federation Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
+    </item>
+<item>
       <title>GraphQL &amp; API Gateway Federation Hub Initial Release</title>
       <link>https://graphql-federation-gateways-hub.vercel.app/</link>
       <pubDate>Mon, 14 Sep 2026 06:06:13 GMT</pubDate>
