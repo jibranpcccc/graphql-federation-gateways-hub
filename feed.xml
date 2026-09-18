@@ -4,10 +4,17 @@
     <title>GraphQL &amp; API Gateway Federation Hub</title>
     <link>https://graphql-federation-gateways-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 06:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:19:40 GMT</lastBuildDate>
     <atom:link href="https://graphql-federation-gateways-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                <item>
+                    <item>
+      <title>📅 Today's Fresh Pick: r/MachineLearning Research (Reddit)</title>
+      <link>https://www.reddit.com/r/MachineLearning/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-federation-gateways-hub-reddit-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:19:40 GMT</pubDate>
+      <description>Newly verified community added to GraphQL &amp; API Gateway Federation Hub: Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: HashiCorp Discuss Community (Forum)</title>
       <link>https://discuss.hashicorp.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-federation-gateways-hub-forum-20260915-1-2026-09-15</guid>
