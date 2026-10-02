@@ -4,10 +4,17 @@
     <title>GraphQL &amp; API Gateway Federation Hub</title>
     <link>https://graphql-federation-gateways-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 07:57:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:06:30 GMT</lastBuildDate>
     <atom:link href="https://graphql-federation-gateways-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                <item>
+                                                                    <item>
+      <title>📅 Today's Fresh Pick: Anthropic Claude Discord (Discord)</title>
+      <link>https://discord.gg/anthropic</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-federation-gateways-hub-discord-20261002-1-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 06:06:30 GMT</pubDate>
+      <description>Newly verified community added to GraphQL &amp; API Gateway Federation Hub: Community server discussing Claude API integrations, prompt techniques, and AI safety evaluations.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/ClaudeAI Anthropic Community (Reddit)</title>
       <link>https://www.reddit.com/r/ClaudeAI/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-federation-gateways-hub-reddit-20261001-1-2026-10-01</guid>
