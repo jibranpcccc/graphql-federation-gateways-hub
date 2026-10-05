@@ -4,10 +4,17 @@
     <title>GraphQL &amp; API Gateway Federation Hub</title>
     <link>https://graphql-federation-gateways-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 06:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:06:31 GMT</lastBuildDate>
     <atom:link href="https://graphql-federation-gateways-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                        <item>
+                                                                            <item>
+      <title>📅 Today's Fresh Pick: PyTorch GitHub Discussions (GitHub)</title>
+      <link>https://discuss.pytorch.org</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-federation-gateways-hub-github-20261005-1-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 06:06:31 GMT</pubDate>
+      <description>Newly verified community added to GraphQL &amp; API Gateway Federation Hub: Official PyTorch open-source discussions on CUDA acceleration, model architectures, and compiler backends.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: LangChain Official Discord (Discord)</title>
       <link>https://github.com/langchain-ai/langchain/discussions</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-federation-gateways-hub-discord-20261003-1-2026-10-03</guid>
