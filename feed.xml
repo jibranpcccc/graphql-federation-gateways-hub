@@ -4,10 +4,17 @@
     <title>GraphQL &amp; API Gateway Federation Hub</title>
     <link>https://graphql-federation-gateways-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:26:57 GMT</lastBuildDate>
     <atom:link href="https://graphql-federation-gateways-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/Python Developer Community (Reddit)</title>
+      <link>https://www.reddit.com/r/Python/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-api-gateway-federation-hub-reddit-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:26:57 GMT</pubDate>
+      <description>Newly verified community added to GraphQL &amp; API Gateway Federation Hub: The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-federation-gateways-hub-forum-20261027-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-federation-gateways-hub-forum-20261019-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:06:04 GMT</pubDate>
       <description>Newly verified community added to GraphQL &amp; API Gateway Federation Hub: Elite technical security forum sharing binary exploitation writeups, malware analysis, and hardware hacking.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: InfoSec Vulnerability Feeds (Telegram)</title>
-      <link>https://t.me/infosec_alerts</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-federation-gateways-hub/#graphql-federation-gateways-hub-telegram-20261018-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:06:01 GMT</pubDate>
-      <description>Newly verified community added to GraphQL &amp; API Gateway Federation Hub: Aggregated daily feeds of security advisories, GitHub proof-of-concepts, and defensive countermeasures.</description>
     </item>
   </channel>
 </rss>
